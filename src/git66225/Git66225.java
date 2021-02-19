@@ -17,8 +17,8 @@ public class Git66225 {
     public static void main(String[] args) {
         String Nombre= "Kevin";
         int edad=19;
-        
-        System.out.println("Mi nombre es: "+Nombre+" y mi edad es: "+edad);
+        double estatura=1.77;
+        System.out.println("Mi nombre es: "+Nombre+" y mi edad es: "+edad + "Mi esttura es: "+estatura);
     }
     
 }
