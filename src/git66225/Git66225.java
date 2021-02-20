@@ -19,6 +19,7 @@ public class Git66225 {
         int edad=19;
         double estatura=1.77;
         System.out.println("Mi nombre es: "+Nombre+" y mi edad es: "+edad + "Mi esttura es: "+estatura);
+        System.out.println("Estudio inegnieria en sistemas");
     }
     
 }
